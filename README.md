@@ -1,5 +1,4 @@
 - 👋 Hi, I’m Armen!
-- 👀 I am currently interested in Data Analysis.
-- 🌱 I’m currently learning SQL and Power BI.
-- 💞️ I’m looking to collaborate on Data Analysis projects.
+- 👀 I am currently interested in Data, Algorithms, and Machine Learning.
+- 🌱 I’m currently learning Python, SQL, and Power BI.
 - 📫 You can reach me via email: armenvahdat@gmail.com (Let me know what method of communication you prefer in the email)
